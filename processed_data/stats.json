@@ -1,8 +1,1 @@
-{
-  "samples": 2483,
-  "classes": 24,
-  "avg_raw_words": 811.6520338300443,
-  "avg_clean_words": 575.3097060008055,
-  "vocab_raw": 111424,
-  "vocab_clean": 33103
-}
+{"samples": 2483, "classes": 24, "avg_raw": 811.6520338300443, "avg_clean": 575.7072090213452}
